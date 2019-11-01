@@ -1,11 +1,11 @@
 {
-  "main.js": "/mongo-oAuth/static/js/main.711b299f.chunk.js",
-  "main.js.map": "/mongo-oAuth/static/js/main.711b299f.chunk.js.map",
+  "main.js": "/mongo-oAuth/static/js/main.6b0f026a.chunk.js",
+  "main.js.map": "/mongo-oAuth/static/js/main.6b0f026a.chunk.js.map",
   "static/js/1.1c025879.chunk.js": "/mongo-oAuth/static/js/1.1c025879.chunk.js",
   "static/js/1.1c025879.chunk.js.map": "/mongo-oAuth/static/js/1.1c025879.chunk.js.map",
   "runtime~main.js": "/mongo-oAuth/static/js/runtime~main.52bd2e84.js",
   "runtime~main.js.map": "/mongo-oAuth/static/js/runtime~main.52bd2e84.js.map",
   "index.html": "/mongo-oAuth/index.html",
-  "precache-manifest.31f838a801e51328933065a367f8060c.js": "/mongo-oAuth/precache-manifest.31f838a801e51328933065a367f8060c.js",
+  "precache-manifest.80ff552a585b8ac8478a5012ff05b3e1.js": "/mongo-oAuth/precache-manifest.80ff552a585b8ac8478a5012ff05b3e1.js",
   "service-worker.js": "/mongo-oAuth/service-worker.js"
 }
