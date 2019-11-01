@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "c6b558025cd0445b14cf",
-    "url": "/mongo-oAuth/static/js/main.c6b55802.chunk.js"
+    "revision": "711b299fbb370db49bb9",
+    "url": "/mongo-oAuth/static/js/main.711b299f.chunk.js"
   },
   {
     "revision": "1c0258792c7fa6124927",
@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "/mongo-oAuth/static/js/runtime~main.52bd2e84.js"
   },
   {
-    "revision": "1808834f5e09993aae1b571b398a3135",
+    "revision": "091193a0b3f10c6bf48b27667924d41a",
     "url": "/mongo-oAuth/index.html"
   }
 ];
